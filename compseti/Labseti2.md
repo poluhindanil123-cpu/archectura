@@ -32,6 +32,8 @@
 ![ssh-keygen и ssh-copy-id](img/image4.jpg)
 
 ---
+### Вариант №8
+[lab №8](img/05a02e03-e117-4d74-b21f-4f217349b039_image.png)
 
 ## Ответы на вопросы
 
